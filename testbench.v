@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   
-// Design Name:   multiplier
-// Module Name:   project_verilog/multiplier_tb.v
-// Project Name:  project_verilog
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: multiplier
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
+// Testbench for N‑bit multiplier 
 module multiplier_tb;
    parameter n_bits = 5;
 	
